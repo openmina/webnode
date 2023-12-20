@@ -30,7 +30,7 @@ The Web Node has to connect directly to the Mina network via WebRTC, without usi
 
 **4) Catching up with the network**
 
-The Web Node downloads the latest block and verifies it. In the demo version, this step also fetches the latest state of the demo account along with its[ Merkle proof](https://medium.com/crypto-0-nite/merkle-proofs-explained-6dd429623dc5) from the peer’s ledger. Using the Merkle proof, we can verify that this account state is indeed part of the ledger with the hash that is part of a block we verified.
+The Web Node downloads the latest block and verifies it. In the demo version, this step also fetches the latest state of the demo account along with its Merkle proof from the peer’s ledger. Using the Merkle proof, we can verify that this account state is indeed part of the ledger with the hash that is part of a block we verified.
 
 These four steps should take a total of 15 to 20 seconds. After the Web Node has finished loading, click on the blue button titled **Continue**.
 
