@@ -8,7 +8,7 @@ The Mina Web Node is a Mina node that can be set up in a matter of seconds and c
 
 Head over to the link below to test out the Berkley net (testnet) version of the Mina Web Node:
 
-[openmina.com](https://openmina.com/)
+[openmina.com](https://openmina.com/web-node)
 
 
 ![image](https://github.com/openmina/webnode/assets/60480123/523dddba-4c03-48db-aa79-543fbd3cf3e0)
